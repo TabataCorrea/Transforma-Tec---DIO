@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Primeira página com estilos baseados com seletores</title>
+    <style>
+        /* Estilo baseados em seletores*/
+        div {
+            width: 200px;
+            height: 100px;
+            background-color: rgb(255, 153, 204);
+            margin: 10px;
+            border: 5px solid rgb(247, 20, 179);
+        }
+
+        /* Estilos baseados em seletores de atributos*/
+        p[name="par3"] {
+            color: rgb(105, 5, 163);
+        }
+
+        p[name="par2"] {
+            color: rgb(94, 14, 243);
+        }
+
+        /* Estilos baseados em seletores de classe*/
+        .dimensão {
+            width: 400px;
+            height: 300px;
+        }
+
+        .colorido {
+            background-color: rgb(240, 199, 222);
+        }
+
+        /* Estilos baseados em seletores de pseudo-classe*/
+        input:hover {
+            background-color: rgb(255, 0, 179);
+            width: 72px;
+        }
+
+        /* Estilos baseados em seletores de ID com pseudo-elementos*/
+        #myDiv:hover {
+            background-color: rgb(207, 143, 250);
+        }
+    </style>
+</head>
+
+<body>
+    <div id="myDiv">
+        <p>Conteúdo de texto dentro da primeira div</p>
+    </div>
+    <div class="dimensão colorido">
+        <p name="par2">Conteúdo de texto dentro da segunda div</p>
+    </div>
+    <div>
+        <p name="par3">Conteúdo de texto dentro da terceira div</p>
+    </div>
+    <input type="submit" value="Enviar">
+</body>
+
+</html>

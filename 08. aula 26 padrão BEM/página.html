@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página do BEM</title>
+
+    <style>
+        .container{
+            border: 1px solid rgb(204, 204, 204);
+            padding: 10px;
+            background-color: rgb(137, 89, 182);
+        }
+
+        .container__form{
+            background-color: rgb(186, 143, 226);
+            padding: 10px;
+        }
+
+        .container__input{
+            background-color: rgb(219, 191, 245);
+            border-radius: 5px;
+            padding: 5px;
+        }
+
+        .container__submit{
+            background-color: rgb(72, 7, 124);
+            border-radius: 4px;
+            color: rgb(255, 255, 255);
+        }
+
+        .container__header{
+            font: 12px sans-serif;
+            color: rgb(99, 20, 122);
+        }
+
+        .container__header--color{
+            color:rgb(200, 155, 211)
+        }
+
+        .container__submit--hover:hover{
+            background-color: rgb(137, 89, 182);
+        }
+
+        .container__submit--active:active{
+            background-color: white;
+        }
+
+    </style>
+</head>
+
+<body>
+    <!-- BLOCO -->
+    <div class="container">
+
+        <!-- COMPONENTE -->
+        <form action="" class="container__form">
+
+            <!-- COMPONENTES -->
+            <input type="text" placeholder="Nome" class="container__input">
+            <input type="password" placeholder="Senha" class="container__input">
+            <input type="submit" value="Entrar" class="container__submit container__submit--hover container__submit--active">
+        </form>
+
+    </div>
+</body>
+
+</html>
