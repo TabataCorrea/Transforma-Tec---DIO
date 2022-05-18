@@ -12,3 +12,4 @@
 - [CSS- Grid e Flexbox](07.%20aula%2024%20Grid%20e%20Flexbox)
 - [Padrão BEM](08.%20aula%2026%20padr%C3%A3o%20BEM)
 - [Calculadora JavaScript](09.%20aula%2032%20calculadora%20JS)
+- [Introdução ao JavaScript](10.%20aula%2033%20intro%20JS/)
