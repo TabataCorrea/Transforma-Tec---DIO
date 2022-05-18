@@ -1,4 +1,4 @@
-<h1 align=center>Transforma Tec</h1>
+<h1 align=center>👩‍💻Transforma Tec📚</h1>
 
 ## Arquivo com todos os exercícios realizados ao longo do curso
 
@@ -14,3 +14,34 @@
 - [Calculadora JavaScript](09.%20aula%2032%20calculadora%20JS)
 - [Introdução ao JavaScript](10.%20aula%2033%20intro%20JS/)
 - [Estruturas condicionais JS](11.%20aula%2034%20estruturas%20condicionais/)
+- [Estruturas de repetição](12.%20aula%2035%20estruturas%20de%20repeti%C3%A7%C3%A3o/)
+- [ECMAScript x JavaScript](13.%20aula%2036%20ECMAScriptxJavaScript/)
+- [DOM](14.%20aula%2038%20DOM/)
+- [Eventos em JavaScript](15.%20aula%2039%20Criando%20eventos%20JS/)
+- [DHTML](16.%20aula%2040%20DHTML/)
+- [JSON](17.%20aula%2041%20JSON/)
+- [Sincronismo e Assincronismo em JS](18.%20aula%2043%20sincronismo%20e%20assincronismo/)
+- [Promises JS](19.%20aula%2044%20promises%20JS/)
+- [Async / Await](20.%20aula%2045%20async/)
+- [Exceções JS](21.%20aula%2046%20exce%C3%A7%C3%B5es%20JS/)
+- [API do ViaCEP - cliente e servidor](22.%20aula%2048%20API%20do%20ViaCEP%20-%20cliente%20e%20servidor/)
+- [API do ViaCEP - back-end](23.%20aula%2049%20API%20do%20ViaCEP%20-%20back-end/)
+- [API do ViaCEP - front-end](24.%20aula%2050%20API%20do%20ViaCep%20-%20front-end/)
+- [API do ViaCEP - async/await e fetch](25.%20aula%2051%20API%20do%20ViaCEP%20-%20async/)
+- [API do ViaCEP - erros e debugging](26.%20aula%2052%20API%20do%20ViaCEP%20-%20erros%20e%20debugging/)
+
+
+
+<h1 align=center>🚀Tecnologias:</h1>
+
+## Tecnologias trabalhadas no momento:
+- [HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- [CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- [JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+
+<h1 align=center>👨‍💻Colaborador:</h1>
+
+## Agradeço ao meu mentor, por todo conhecimento compartilhado:
+- [Professor Cassiano](https://github.com/cassiano-dio)
