@@ -13,3 +13,4 @@
 - [Padrão BEM](08.%20aula%2026%20padr%C3%A3o%20BEM)
 - [Calculadora JavaScript](09.%20aula%2032%20calculadora%20JS)
 - [Introdução ao JavaScript](10.%20aula%2033%20intro%20JS/)
+- [Estruturas condicionais JS](11.%20aula%2034%20estruturas%20condicionais/)
