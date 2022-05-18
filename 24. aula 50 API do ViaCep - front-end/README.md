@@ -1,6 +1,6 @@
 <h1 align="center">🎉 API do ViaCEP - Front-end</h1>
 
-## 👩‍💻 A seguir listas de exercícios com exemplos 
+## 👩‍💻 A seguir lista de exercícios com exemplos 
 
 ## Índice:
 - [Exemplo promise](exemplo%20promise01.html)
