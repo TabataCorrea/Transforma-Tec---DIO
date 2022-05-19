@@ -2,7 +2,7 @@
 
 # Lista de exemplos 
 
-## índice:
+## Índice:
 - [Exemplo 1](createelement.html)
 - [Exemplo 2](createelement2.html)
 - [Exemplo 3](insertbefore.html)
