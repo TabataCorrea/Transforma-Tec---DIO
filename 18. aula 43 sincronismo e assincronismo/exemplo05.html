@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Document</title>
+</head>
+
+<body>
+    <div id="principal">
+
+        <p>Calcular</p>
+
+        <input type="submit" value="Calcular" onclick="calcular()">
+
+    </div>
+
+    <script>
+        function calcular() {
+            let n1 = 20
+            let n2 = 40
+
+            let soma = n1 + n2
+
+            exibir(soma)
+        }
+
+        function exibir(soma) {
+
+            var resultado = document.createElement("p")
+            resultado.innerHTML = "Resultado: " + soma;
+
+            document.getElementById("principal").appendChild(resultado)
+
+        }
+    </script>
+</body>
+
+</html>

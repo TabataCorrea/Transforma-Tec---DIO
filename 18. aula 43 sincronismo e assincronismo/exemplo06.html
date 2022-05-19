@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Document</title>
+</head>
+
+<body>
+    <div id="principal">
+
+        <p>Calcular</p>
+
+        <input type="submit" value="Calcular" onclick="calcular()">
+
+    </div>
+
+    <script>
+        async function calcular() {
+            let n1 = 20
+            let n2 = 40
+
+            let soma = n1 + n2
+
+            let multiplica = n1 * n2
+
+            multiplicar(multiplica)
+
+            await exibir(soma)
+        }
+
+        function multiplicar(soma) {
+
+            var resultado = document.createElement("p2")
+            resultado.innerHTML = "Resultado: " + soma;
+
+            document.getElementById("principal").appendChild(resultado)
+
+        }
+
+        async function exibir(soma) {
+
+            setTimeout(() => {
+
+                var resultado = document.createElement("p")
+                resultado.innerHTML = "Resultado: " + soma;
+
+                document.getElementById("principal").appendChild(resultado)
+
+            }, 5000)
+
+        }
+    </script>
+</body>
+
+</html>
