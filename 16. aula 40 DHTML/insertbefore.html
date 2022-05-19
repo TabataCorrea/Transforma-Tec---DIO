@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Document</title>
+</head>
+
+<body>
+    <ul id="minhalista">
+        <li>Chocolate</li>
+        <li>Avelã</li>
+        <li>Cacau</li>
+        <li>Amêndoas</li>
+    </ul>
+
+    <script>
+        let novoItem = document.createElement("li")
+
+        let noTexto = document.createTextNode("Chocolate branco");
+
+        novoItem.appendChild(noTexto)
+
+        let lista = document.getElementById("minhalista")
+
+        lista.insertBefore(novoItem, lista.children[0])
+    </script>
+
+</body>
+
+</html>
