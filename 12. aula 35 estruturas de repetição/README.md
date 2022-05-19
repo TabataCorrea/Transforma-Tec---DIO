@@ -1,4 +1,4 @@
-<h1 align="center">JavaScript: Estruturas cde repetição</h1>
+<h1 align="center">JavaScript: Estruturas de repetição</h1>
 
 ## índice: 
 - [Estrutura While](estruturawhile.js)
