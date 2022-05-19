@@ -1,4 +1,4 @@
-<h1 align="center">JavaScript: Estruturas condicionais</h1>
+<h1 align="center">💻JavaScript: Estruturas condicionais📚</h1>
 
 ## índice: 
 - [Exemplo 1](exemplo1.js)
