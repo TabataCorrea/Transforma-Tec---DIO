@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Document</title>
+</head>
+
+<body>
+    <h1 onclick="this.innerHTML = 'Click'">
+        Click here!
+    </h1>
+
+    <h1 id="paragrafo">
+        Click there.
+    </h1>
+
+    <script>
+        document.getElementById("paragrafo").addEventListener("click",
+            function alteraTexto() {
+                document.getElementById("paragrafo").innerHTML = "Clicado de novo meu rei"
+            })
+    </script>
+
+</body>
+
+</html>

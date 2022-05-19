@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Document</title>
+</head>
+
+<body>
+
+    <p>Selecione o seu artista preferido</p>
+
+    <select id="artistas" onchange="selecionarArtista()">
+
+        <option value="Elis Regina">Elis Regina</option>
+        <option value="Marisa Mont">Marisa Monte</option>
+        <option value="Alicia Keys">Alicia Keys</option>
+        <option value="Jessie J">Jessie J</option>
+        <option value="IDK">IDK</option>
+
+    </select>
+
+    <p id="resultado">Artista não selecionado</p>
+
+    <script>
+        function selecionarArtista() {
+
+            let artista = document.getElementById("artistas").value
+
+            document.getElementById("resultado").innerHTML = "Música da boa: " + artista
+        }
+    </script>
+
+</body>
+
+</html>
