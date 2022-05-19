@@ -27,7 +27,7 @@
 - [API do ViaCEP - cliente e servidor](22.%20aula%2048%20API%20do%20ViaCEP%20-%20cliente%20e%20servidor/)
 - [API do ViaCEP - back-end](23.%20aula%2049%20API%20do%20ViaCEP%20-%20back-end/)
 - [API do ViaCEP - front-end](24.%20aula%2050%20API%20do%20ViaCep%20-%20front-end/)
-- [API do ViaCEP - async, await e fetch](25.%20aula%2051%20API%20do%20ViaCEP%20-%20async,%20await%20e%20fetch/index.html)
+- [API do ViaCEP - async, await e fetch](25.%20aula%2051%20API%20do%20ViaCEP%20-%20async,%20await%20e%20fetch/)
 - [API do ViaCEP - erros e debugging](26.%20aula%2052%20API%20do%20ViaCEP%20-%20erros%20e%20debugging/)
 
 
