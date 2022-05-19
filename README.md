@@ -22,7 +22,7 @@
 - [JSON](17.%20aula%2041%20JSON/)
 - [Sincronismo e Assincronismo em JS](18.%20aula%2043%20sincronismo%20e%20assincronismo/)
 - [Promises JS](19.%20aula%2044%20promises%20JS/)
-- [Async / Await](20.%20aula%2045%20async/)
+- [Async/Await](20.%20aula%2045%20async%2C%20await/)
 - [Exceções JS](21.%20aula%2046%20exce%C3%A7%C3%B5es%20JS/)
 - [API do ViaCEP - cliente e servidor](22.%20aula%2048%20API%20do%20ViaCEP%20-%20cliente%20e%20servidor/)
 - [API do ViaCEP - back-end](23.%20aula%2049%20API%20do%20ViaCEP%20-%20back-end/)
